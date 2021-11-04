@@ -1,1 +1,1 @@
-Hey! I'm Dan
+Hey! I'm Dan. I mostly build Flutter and React Native apps these days. Currently I'm focused on the [NerdWallet app](https://www.nerdwallet.com/l/nerdwallet-app) and [Pollyn - the referral sharing app](https://pollyn.app).
